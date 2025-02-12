@@ -29,8 +29,8 @@ Indian-Stock-Market-Live-Tracker/
 ## ⚙️ Installation & Setup
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/Indian-Stock-Market-Live-Tracker.git
-cd Indian-Stock-Market-Live-Tracker
+git clone https://github.com/your-username/Stock_Price_.git
+cd Stock_Price_
 ```
 
 ### Step 2: Install Dependencies
