@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+plotly
+beautifulsoup4
+numpy
+lxml
+urllib3
+altair
+datetime
